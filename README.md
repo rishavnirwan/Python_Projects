@@ -19,4 +19,4 @@ This project analyzes Zomato data to provide insights into restaurant trends and
 - ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/rishavnirwan/Python_Projects/blob/main/Zomato%20project.ipynb
+   <a href="zomato_analysis.ipynb">Open Zomato Analysis Notebook</a>

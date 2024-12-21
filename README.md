@@ -17,6 +17,4 @@ This project analyzes Zomato data to provide insights into restaurant trends and
 - **Matplotlib & Seaborn**: Visualization of insights.
 
 - ## How to Run the Project
-1. Clone this repository:
-   ```bash
-   <a href="zomato_analysis.ipynb">Open Zomato Analysis Notebook</a>
+
